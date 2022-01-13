@@ -1,10 +1,10 @@
 ﻿# kaziahosunhabibripon
-![I am kaziahsounhabibripon](https://github.com/kaziahosunhabibripon)
+![I am kaziahsounhabibripon](https://github.com/kaziahosunhabibripon//blob/main/page.png)
 
 <h1 align="center">Hi 👋, I'm Kazi Ahsoun Habib (Ripon)</h1>
 <h3 align="center">MERN Stack Web Developer and Web Designer </h3>
 
-![Profile views](https://github.com/kaziahosunhabibripon)
+![Profile views](https://gpvc.arturio.dev/kaziahosunhabibripon)
 
 Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer.
 Knock me: https://www.facebook.com/KaziAhosunhabibRipon
@@ -12,7 +12,7 @@ https://portfolio-website-a955b.web.app/
 
 Skills: PYTHON/ BOOTSTRAP/ NODE.JS / REACT / HTML / CSS/ JavaScript/ NextJS/ REACT NATIVE
 
-- 🌱 I’m currently learning **JS, Python, React**
+- 🌱 I’m currently working **JS, Python, React, **
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaziahosunhabibripon?tab=repositories](https://github.com/kaziahosunhabibripon/)
 
