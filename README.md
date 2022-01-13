@@ -1,6 +1,6 @@
 ### Hi there, I'm Kazi Ahosun Habib Ripon - [website] 👋
 
-[![Website](https://img.shields.io/website?label=phpdocs.com&style=for-the-badge&url=https%3A%2F%2Fphpdocs.com)](https://portfolio-website-a955b.web.app/)
+[![Website]https://img.shields.io/website?label=javascriptdocs.com&style=for-the-badge&url=https%3A%2F%2Fjsdocs.com%29)](https://portfolio-website-a955b.web.app/)
 
 ## I'm a Freelance Developer
 <h1 align="center">Hi 👋, I'm Kazi Ahsoun Habib (Ripon)</h1>
