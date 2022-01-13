@@ -15,7 +15,6 @@ Skills: PYTHON/ BOOTSTRAP/ NODE.JS / REACT / HTML / CSS/ JavaScript/ NextJS/ REA
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaziahosunhabibripon?tab=repositories](https://github.com/kaziahosunhabibripon/)
 
-- 📝
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
 - 📫 How to reach me \*habibkazi92@gmail.com**
@@ -45,9 +44,3 @@ Skills: PYTHON/ BOOTSTRAP/ NODE.JS / REACT / HTML / CSS/ JavaScript/ NextJS/ REA
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harun181)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=harun181&show_icons=true)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=harun181)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harun181)
