@@ -5,10 +5,8 @@
 ## I'm a Freelance Developer
 <h1 align="center">Hi <img src="https://github.com/kaziahosunhabibripon/kaziahosunhabibripon/blob/main/icons/Hi.gif" width="28px"/>, I'm Kazi Ahosun Habib Ripon</h1>
 <h2 align="center">
-  <img src="https://komarev.com/ghpvc/kaziahosunhabibripon=&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   Fullstack Developer
   <a href="https://portfolio-website-a955b.web.app/">
-    <img src="https://img.shields.io/badge/portfolio-website-a955b.web.app/?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
   </a>
 </h2>
 <div align="center">
