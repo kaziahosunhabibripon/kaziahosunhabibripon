@@ -20,6 +20,7 @@ Welcome to my GitHub profile. I am a passionate Fullstack Developer with a stron
   <a href="https://portfolio-website-a955b.web.app/">
     Portfolio
   </a>
+  <hr/>
   <a href="https://drive.google.com/file/d/1RSlAtRcBY-KfRQogWGVgO-kBodAJpBs9/view">
    Resume
   </a>
