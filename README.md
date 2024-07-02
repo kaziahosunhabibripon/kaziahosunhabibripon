@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=javascriptdocs.com&style=for-the-badge&url=https%3A%2F%2Fjsdocs.com%29)](https://portfolio-website-a955b.web.app/)
 
 ## I'm a Freelance Developer
-<h1 align="center">Hi <img src="https://www.flaticon.com/free-animated-icon/wave_11321431?term=hi&page=1&position=5&origin=search&related_id=11321431" width="28px"/>, I'm Kazi Ahosun Habib Ripon</h1>
+<h1 align="center">Hi <img src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Hi.gif" width="28px"/>, I'm Kazi Ahosun Habib Ripon</h1>
 <h2 align="center">
   Fullstack Developer
   <a href="https://portfolio-website-a955b.web.app/">
