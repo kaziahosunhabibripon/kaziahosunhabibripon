@@ -13,7 +13,7 @@
 </div>
 
 Welcome to my GitHub profile. I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A versatile developer specializing in **MERN, Android Development, and Chatbot Development** with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
-  <a href="habibkazi92@gmail.com">
+  <a href="https://www.linkedin.com/in/kazi-ahosun-habib-ripon/">
     Knock me
   </a>
 <details>
