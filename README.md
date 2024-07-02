@@ -28,14 +28,10 @@ Knock me: https://www.facebook.com/KaziAhosunhabibRipon
 
  <details>
   <summary><h4> <img align="center" src="https:/github.com//kaziahosunhabibripon/kaziahosunhabibripon/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
-  <span><img src="https://img.shields.io/badge/BTECH-[YourUniversity]-1877F2?style=for-the-badge"></span>
-  <span><img src="https://img.shields.io/badge/GPA-[YourGPA]-EFEEE9?style=for-the-badge"></span>
  </details>
 
  <details>
   <summary><h4> <img align="center" src="https:/github.com//kaziahosunhabibripon/kaziahosunhabibripon/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
-  - **[Your Role] ** at [Company] | [Duration]
-    - [Work Description]
  </details>
 </details>
 Skills: PYTHON/ BOOTSTRAP/ NODE.JS / REACT / HTML / CSS/ JavaScript/ NextJS/ REACT NATIVE
