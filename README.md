@@ -21,8 +21,6 @@ Knock me: https://www.facebook.com/KaziAhosunhabibRipon
  <summary>
     <h2> 
       <img align="center" src="https://github.com//kaziahosunhabibripon/kaziahosunhabibripon/blob/main/icons/about.png" width="37" /> 
-    Resume
-      [https://drive.google.com/file/d/1RSlAtRcBY-KfRQogWGVgO-kBodAJpBs9/view]
     </h2>
 </summary>
 </details>
