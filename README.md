@@ -3,9 +3,9 @@
 [![Website](https://img.shields.io/website?label=javascriptdocs.com&style=for-the-badge&url=https%3A%2F%2Fjsdocs.com%29)](https://portfolio-website-a955b.web.app/)
 
 ## I'm a Freelance Developer
-<h1 align="center">Hi <img src="https://github.com/YourUsername/YourUsername/blob/main/icons/Hi.gif" width="28px"/>, I'm Kazi Ahosun Habib Ripon</h1>
+<h1 align="center">Hi <img src="https://github.com/kaziahosunhabibripon/kaziahosunhabibripon/blob/main/icons/Hi.gif" width="28px"/>, I'm Kazi Ahosun Habib Ripon</h1>
 <h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YourUsername]&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+  <img src="https://komarev.com/ghpvc/kaziahosunhabibripon?username=&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   Fullstack Developer
   <a href="https://portfolio-website-a955b.web.app/">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
