@@ -13,15 +13,16 @@
 </div>
 
 Welcome to my GitHub profile. I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A versatile developer specializing in **MERN, Android Development, and Chatbot Development** with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
-Knock me: https://www.facebook.com/KaziAhosunhabibRipon
+  <a href="habibkazi92@gmail.com">
+    Knock me
+  </a>
 <details>
   <a href="https://portfolio-website-a955b.web.app/">
     Portfolio
   </a>
-  <a href="(https://drive.google.com/file/d/1RSlAtRcBY-KfRQogWGVgO-kBodAJpBs9/view)">
+  <a href="https://drive.google.com/file/d/1RSlAtRcBY-KfRQogWGVgO-kBodAJpBs9/view">
    Resume
   </a>
- 
 </details>
 Skills: PYTHON/ BOOTSTRAP/ NODE.JS / REACT / HTML / CSS/ JavaScript/ NextJS/ REACT NATIVE
 
